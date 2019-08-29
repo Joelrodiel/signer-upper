@@ -1,0 +1,9 @@
+{
+    "EMAIL": "#email",
+    "PASSW": "#pword",
+    "LOGIN": "#loginBtnId",
+    "CHECK": "td.SUGtable > table > tbody > tr:nth-child(_SLOT_) > td:nth-child(3) > div.SUGbuttonContainer.link_cursor > span > input",
+    "SUBMT": "#submitfooter > div > input",
+    "SIGNI": "button[name='btnSignUp']",
+    "TABLE": "td.SUGtable > table > tbody > tr:nth-child(_SLOT_) > td:nth-child(3) > div > span"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "scraper_syltek",
+  "version": "1.0.0",
+  "description": "A scraper for syltek",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no est specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "nothoel",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
