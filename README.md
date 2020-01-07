@@ -1,5 +1,5 @@
 # SIGNER-UPPER
-A SignUp Genius bot for the lazy
+A SignUpGenius bot for the lazy
 
 Hello! I made this after I slacked and got a sucky time for my CS61A lab... Hopefully it never happens to us again!
 
